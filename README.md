@@ -8,3 +8,8 @@ LLMs: Utilize Groq(https://console.groq.com/docs/models), specifically the gemma
 Database: MySQL/Postgres SQL
 Font: Google Inter.
 You may use Gemini 2.5 Pro (1-month free trial) or ChatGPT 5.0 for all coding and research, with zero human-written code.
+LangGraph AI Agent & Tools: 
+Describe the role of the LangGraph agent in managing HCP interactions.
+Define a minimum of five (5) specific "tools" that this LangGraph agent would use for sales-related activities. Two tools must be: 
+Log Interaction: Detail how this tool captures interaction data (potentially using the LLM for summarization, entity extraction, etc.).
+Edit Interaction: How this tool allows modification of logged data.
