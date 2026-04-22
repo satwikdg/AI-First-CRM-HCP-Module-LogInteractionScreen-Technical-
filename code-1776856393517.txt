@@ -1,0 +1,12 @@
+hcp-crm-ai/
+├── backend/
+│   ├── main.py
+│   ├── agents.py
+│   └── database.py
+└── frontend/
+    ├── src/
+    │   ├── store/
+    │   │   └── interactionSlice.js
+    │   ├── App.js
+    │   └── LogInteraction.js
+    └── public/
